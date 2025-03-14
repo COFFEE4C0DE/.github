@@ -49,12 +49,3 @@ Criação de projetos que resolvam desafiadores e que instiguem nossa criativade
     <td></td>
   </tr>
 </table>
-
-## Tecnologias utilizadas para construir o projeto:
-
-| Linguagem | Ícone |
-|---|---|
-| **HTML** | <img src="https://skillicons.dev/icons?i=html"> |
-| **CSS** | <img src="https://skillicons.dev/icons?i=css"> |
-| **JAVASCRIPT** | <img src="https://skillicons.dev/icons?i=js"> |
-| **Figma** | <img src="https://skillicons.dev/icons?i=figma"> |
