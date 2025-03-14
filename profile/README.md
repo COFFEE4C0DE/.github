@@ -15,36 +15,36 @@ Criação de projetos que resolvam desafiadores e que instiguem nossa criativade
     <td align="center">
       <img src="-" width="75px">
       <p>Alessandra Shiguemori</p>
-      <a href="https://www.linkedin.com/in/diogo-antonny/">Linkedin</a>
-      <a href="https://www.linkedin.com/in/diogo-antonny/">Github</a>
+      <a href="https://www.linkedin.com/in/alessandra-shiguemori-32368131/">Linkedin</a>
+      <a href="https://github.com/foxczie">Github</a>
     </td>
     <td align="center">
       <img src="-" width="75px">
       <p>Diogo Antonny</p>
       <a href="https://www.linkedin.com/in/diogo-antonny/">Linkedin</a>
-      <a href="https://www.linkedin.com/in/diogo-antonny/">Github</a>
+      <a href="https://github.com/DiogoJP202">Github</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="-" width="75px">
       <p>Giovani</p>
-      <a href="https://www.linkedin.com/in/diogo-antonny/">Linkedin</a>
-      <a href="https://www.linkedin.com/in/diogo-antonny/">Github</a>
+      <a href="-">Linkedin</a>
+      <a href="-">Github</a>
     </td>
     <td align="center">
       <img src="-" width="75px">
       <p>Rodrigo Tomya</p>
-      <a href="https://www.linkedin.com/in/diogo-antonny/">Linkedin</a>
-      <a href="https://www.linkedin.com/in/diogo-antonny/">Github</a>
+      <a href="https://www.linkedin.com/in/rodrigo-tomya-maruyama-7483462ab/">Linkedin</a>
+      <a href="https://github.com/DigoTomya">Github</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="-" width="75px">
       <p>Sâmea Silva</p>
-      <a href="https://www.linkedin.com/in/diogo-antonny/">Linkedin</a>
-      <a href="https://www.linkedin.com/in/diogo-antonny/">Github</a>
+      <a href="https://www.linkedin.com/in/samea-silva/">Linkedin</a>
+      <a href="https://github.com/samea-jesus0">Github</a>
     </td>
     <td></td>
   </tr>
