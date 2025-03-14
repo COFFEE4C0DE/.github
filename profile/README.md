@@ -28,9 +28,9 @@ Criação de projetos que resolvam desafiadores e que instiguem nossa criativade
   <tr>
     <td align="center">
       <img src="-" width="75px">
-      <p>Giovani</p>
-      <a href="-">Linkedin</a>
-      <a href="-">Github</a>
+      <p>Giovanni Rodrigues</p>
+      <a href="https://www.linkedin.com/in/giovanni-rodrigues-5b2259325/">Linkedin</a>
+      <a href="https://github.com/GioDev29">Github</a>
     </td>
     <td align="center">
       <img src="-" width="75px">
