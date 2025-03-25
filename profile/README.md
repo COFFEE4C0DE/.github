@@ -21,7 +21,7 @@ Criação de projetos que resolvam desafiadores e que instiguem nossa criativade
     </td>
     <td align="center">
       <img src="./Membros/Diogo.jpg" width="100px">
-      <p>Diogo Antonny <img src="https://crystalpng.com/wp-content/uploads/2024/08/BERSERK-LOGO.png" width="20px"></p>
+      <p>Diogo Antonny <img src="https://crystalpng.com/wp-content/uploads/2024/08/BERSERK-LOGO.png" width="30px"></p>
       <a href="https://www.linkedin.com/in/diogo-antonny/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="15px">  Linkedin</a>
       <br>
       <a href="https://github.com/DiogoJP202"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="15px">  Github</a>
@@ -37,7 +37,7 @@ Criação de projetos que resolvam desafiadores e que instiguem nossa criativade
     </td>
     <td align="center">
       <img src="./Membros/Rodrigo.jpg" width="100px">
-      <p>Rodrigo Tomya 🐉</p>
+      <p>Rodrigo Tomya <img src="./Icones/badtzmaru.png" width="30px"></p>
       <a href="https://www.linkedin.com/in/rodrigo-tomya-maruyama-7483462ab/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="15px">  Linkedin</a>
       <br>
       <a href="https://github.com/DigoTomya"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="15px">  Github</a>
@@ -46,7 +46,7 @@ Criação de projetos que resolvam desafiadores e que instiguem nossa criativade
   <tr>
     <td align="center">
       <img src="./Membros/Samea.jpg" width="100px">
-      <p>Sâmea Silva <img src="https://emojigraph.org/media/facebook/pink-heart_1fa77.png" width="15px"></p>
+      <p>Sâmea Silva <img src="./Icones/cinnamonroll.png" width="50px"></p>
       <a href="https://www.linkedin.com/in/samea-silva/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="15px">  Linkedin</a>
       <br>
       <a href="https://github.com/samea-jesus0"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="15px">  Github</a>
