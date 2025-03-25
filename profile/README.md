@@ -2,7 +2,7 @@
 
 ## Sobre nós
 
-👋 Olá! Seja bem-vind@ à página do GitHub da COFFEE4C0DE! Somos um grupo de estudantes, desenvolvedores e amantes de café! ❤️☕
+👋 Olá! Seja bem-vind@ à página do GitHub da COFFEE4C0DE!<br>Somos um grupo de estudantes, desenvolvedores e amantes de café! ❤️☕
 
 ## Objetivos 🎯
 
