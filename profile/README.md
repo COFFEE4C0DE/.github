@@ -17,35 +17,39 @@ Criação de projetos que resolvam desafiadores e que instiguem nossa criativade
       <p>Alessandra Shiguemori 🦊</p>
       <a href="https://www.linkedin.com/in/alessandra-shiguemori-32368131/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="15px">  Linkedin</a>
       <br>
-      <a href="https://github.com/foxczie">Github</a>
+      <a href="https://github.com/foxczie"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="15px">  Github</a>
     </td>
     <td align="center">
       <img src="./Membros/Diogo.jpg" width="100px">
       <p>Diogo Antonny 🥁</p>
-      <a href="https://www.linkedin.com/in/diogo-antonny/">Linkedin</a>
-      <a href="https://github.com/DiogoJP202">Github</a>
+      <a href="https://www.linkedin.com/in/diogo-antonny/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="15px">  Linkedin</a>
+      <br>
+      <a href="https://github.com/DiogoJP202"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="15px">  Github</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="./Membros/Giovanni.jpg" width="100px">
       <p>Giovanni Rodrigues 🎮</p>
-      <a href="https://www.linkedin.com/in/giovanni-rodrigues-5b2259325/">Linkedin</a>
-      <a href="https://github.com/GioDev29">Github</a>
+      <a href="https://www.linkedin.com/in/giovanni-rodrigues-5b2259325/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="15px">  Linkedin</a>
+      <br>
+      <a href="https://github.com/GioDev29"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="15px">  Github</a>
     </td>
     <td align="center">
       <img src="./Membros/Rodrigo.jpg" width="100px">
       <p>Rodrigo Tomya 🐉</p>
-      <a href="https://www.linkedin.com/in/rodrigo-tomya-maruyama-7483462ab/">Linkedin</a>
-      <a href="https://github.com/DigoTomya">Github</a>
+      <a href="https://www.linkedin.com/in/rodrigo-tomya-maruyama-7483462ab/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="15px">  Linkedin</a>
+      <br>
+      <a href="https://github.com/DigoTomya"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="15px">  Github</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="./Membros/Samea.jpg" width="100px">
-      <p>Sâmea Silva</p>
-      <a href="https://www.linkedin.com/in/samea-silva/">Linkedin</a>
-      <a href="https://github.com/samea-jesus0">Github</a>
+      <p>Sâmea Silva ☺️</p>
+      <a href="https://www.linkedin.com/in/samea-silva/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="15px">  Linkedin</a>
+      <br>
+      <a href="https://github.com/samea-jesus0"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="15px">  Github</a>
     </td>
     <td></td>
   </tr>
