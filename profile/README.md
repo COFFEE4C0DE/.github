@@ -13,13 +13,14 @@ Criação de projetos que resolvam desafiadores e que instiguem nossa criativade
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./Membros/Alessandra.jpg" width="75px">
+      <img src="./Membros/Alessandra.jpg" width="100px">
       <p>Alessandra Shiguemori 🦊</p>
-      <a href="https://www.linkedin.com/in/alessandra-shiguemori-32368131/">Linkedin</a>
+      <a href="https://www.linkedin.com/in/alessandra-shiguemori-32368131/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="15px">  Linkedin</a>
+      <br>
       <a href="https://github.com/foxczie">Github</a>
     </td>
     <td align="center">
-      <img src="./Membros/Diogo.jpg" width="75px">
+      <img src="./Membros/Diogo.jpg" width="100px">
       <p>Diogo Antonny 🥁</p>
       <a href="https://www.linkedin.com/in/diogo-antonny/">Linkedin</a>
       <a href="https://github.com/DiogoJP202">Github</a>
@@ -27,13 +28,13 @@ Criação de projetos que resolvam desafiadores e que instiguem nossa criativade
   </tr>
   <tr>
     <td align="center">
-      <img src="./Membros/Giovanni.jpg" width="75px">
+      <img src="./Membros/Giovanni.jpg" width="100px">
       <p>Giovanni Rodrigues 🎮</p>
       <a href="https://www.linkedin.com/in/giovanni-rodrigues-5b2259325/">Linkedin</a>
       <a href="https://github.com/GioDev29">Github</a>
     </td>
     <td align="center">
-      <img src="./Membros/Rodrigo.jpg" width="75px">
+      <img src="./Membros/Rodrigo.jpg" width="100px">
       <p>Rodrigo Tomya 🐉</p>
       <a href="https://www.linkedin.com/in/rodrigo-tomya-maruyama-7483462ab/">Linkedin</a>
       <a href="https://github.com/DigoTomya">Github</a>
@@ -41,7 +42,7 @@ Criação de projetos que resolvam desafiadores e que instiguem nossa criativade
   </tr>
   <tr>
     <td align="center">
-      <img src="./Membros/Samea.jpg" width="75px">
+      <img src="./Membros/Samea.jpg" width="100px">
       <p>Sâmea Silva</p>
       <a href="https://www.linkedin.com/in/samea-silva/">Linkedin</a>
       <a href="https://github.com/samea-jesus0">Github</a>
