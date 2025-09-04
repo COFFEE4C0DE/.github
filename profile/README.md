@@ -20,9 +20,9 @@ Criação de projetos que resolvam desafiadores e que instiguem nossa criativade
       <a href="https://github.com/foxczie"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="15px">  Github</a>
     </td>
     <td align="center">
-      <img src="./Membros/Diogo.jpg" width="100px">
+      <img src="./Membros/Diogo1.jpg" width="100px">
       <p>Diogo Antonny <img src="https://crystalpng.com/wp-content/uploads/2024/08/BERSERK-LOGO.png" width="30px"></p>
-      <a href="https://www.linkedin.com/in/diogo-antonny/"><img src="https://raw.githubusercontent.com/COFFEE4C0DE/.github/refs/heads/main/profile/Membros/Diogo1.jpg" width="15px">  Linkedin</a>
+      <a href="https://www.linkedin.com/in/diogo-antonny/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="15px">  Linkedin</a>
       <br>
       <a href="https://github.com/DiogoJP202"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="15px">  Github</a>
     </td>
